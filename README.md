@@ -3,7 +3,7 @@ Useful for documentation (e.g. doxygen output).
 
 
 ###TO_DO
-- [ ] Push gh-pages branch
+- [x] Push gh-pages branch
 - [ ] Add introduction.
 - [x] Add ENG description.
 - [ ] Add PL description.
